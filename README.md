@@ -1,2 +1,3 @@
-# Pythonsura4
-Condicionales y ciclos con python
+CICLOS Y CONDICIONES CON PYTHON
+
+## Programado por: Jeison Ospina Gallego
